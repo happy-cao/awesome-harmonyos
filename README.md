@@ -1,2 +1,10 @@
-# awesome-harmonyos
-HarmonyOS鸿蒙开发资源大全，Java资源大全中文版，包括开发库、开发工具、网站、博客、视频等，由鸿蒙巴士持续更新。
+## HarmonyOS技术社区
+
+[HarmonyBus鸿蒙巴士：HarmonyOS鸿蒙开发者开源学习社区](https://www.harmonybus.net)
+
+
+
+
+
+## 视频课程
+[鸿蒙应用开发工程师免费学习课程](https://chengxuka.com/learn/path/4)
